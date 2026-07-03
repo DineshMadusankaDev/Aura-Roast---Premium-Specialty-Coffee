@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Aura Roast - Premium Specialty Coffee
 
-# Run and deploy your AI Studio app
+The Aura Roast - Premium Specialty Coffee is a high-end eCommerce experience designed to showcase specialty coffee with visual storytelling and performance-oriented features.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
+Check out the live application here: [https://aura-roast-premium-specialty-coffee.vercel.app](https://aura-roast-premium-specialty-coffee.vercel.app)
 
-View your app in AI Studio: https://ai.studio/apps/14788154-3837-4f0a-9d32-a2d010ad5c26
+## 🛠 Tech Stack
+The application is built with the following modern technologies:
+* **Framework:** React (Vite)
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
 
-## Run Locally
+## ✨ Key Features
+* **Visual Storytelling:** Optimized for a high-end, immersive user experience.
+* **Ultra-fast Performance:** Built with Vite for rapid load times and smooth navigation.
+* **Responsive Design:** Fully optimized using Tailwind CSS for a seamless look across all devices.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+*Created by [DineshMadusankaDev](https://github.com/DineshMadusankaDev)*
